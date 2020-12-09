@@ -1,0 +1,11 @@
+{
+  "version":"v1",
+  "payload":{
+    "name":"Sample Name",
+    "value1":"Sample Value 1",
+    "value2":"Sample Value 2",
+    "demographic":{
+      "loc":"Sample Location"
+    }
+  }
+}
